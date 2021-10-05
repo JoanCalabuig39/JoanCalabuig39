@@ -1,5 +1,5 @@
-Welcome to my profile 
-
+# Welcome to my profile 
+_This file is to kwon me better_
 
 - 👋 Hi, I’m @JoanCalabuig39
 - 👀 I’m interested in ...
